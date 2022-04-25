@@ -187,25 +187,10 @@
     <BundleResource Include="Resources\GasQuestLogo.png" />
   </ItemGroup>
   <ItemGroup>
-    <BundleResource Include="Resources\mapicon.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <BundleResource Include="Resources\profilePicturePlaceholder.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <BundleResource Include="Resources\addTripIcon.png" />
-  </ItemGroup>
-  <ItemGroup>
     <BundleResource Include="Resources\my_location.png" />
   </ItemGroup>
   <ItemGroup>
-    <BundleResource Include="Resources\addfillupicon.png" />
-  </ItemGroup>
-  <ItemGroup>
     <BundleResource Include="Resources\search.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <BundleResource Include="Resources\profile.png" />
   </ItemGroup>
   <ItemGroup>
     <BundleResource Include="Resources\maps.png" />

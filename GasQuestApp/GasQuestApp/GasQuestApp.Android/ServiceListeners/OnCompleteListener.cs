@@ -1,9 +1,6 @@
-﻿using System;
-using System.Threading.Tasks;
+﻿using System.Threading.Tasks;
 using Android.Gms.Tasks;
 using Firebase.Firestore;
-using GasQuestApp.Views;
-using GasQuestApp.ViewModels;
 
 namespace GasQuestApp.Droid.ServiceListenters
 {

@@ -1,12 +1,8 @@
 ﻿using Firebase.Database;
-using GasQuestApp.Services;
-using Firebase.Database.Query;
-using System;
 using System.Collections.Generic;
 using System.Linq;
 using Xamarin.Forms;
 using System.Threading.Tasks;
-using Xamarin.Forms.Xaml;
 
 namespace GasQuestApp.Services
 {

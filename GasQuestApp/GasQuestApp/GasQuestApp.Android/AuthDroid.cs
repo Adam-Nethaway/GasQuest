@@ -1,18 +1,7 @@
-﻿using Android.App;
-using Android.Content;
-using Android.Gms.Extensions;
-using Android.OS;
-using Android.Runtime;
-using Android.Views;
-using Android.Widget;
+﻿using Android.Gms.Extensions;
 using Firebase.Auth;
-using Firebase.Firestore;
 using GasQuestApp.Droid;
-using GasQuestApp.Droid.ServiceListenters;
 using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
 using System.Threading.Tasks;
 using Xamarin.Forms;
 

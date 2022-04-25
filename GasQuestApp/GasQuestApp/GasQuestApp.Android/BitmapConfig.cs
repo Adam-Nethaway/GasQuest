@@ -1,5 +1,4 @@
-﻿using GasQuestApp.Droid;
-using Xamarin.Forms.GoogleMaps;
+﻿using Xamarin.Forms.GoogleMaps;
 using Xamarin.Forms.GoogleMaps.Android.Factories;
 using AndroidBitmapDescriptor = Android.Gms.Maps.Model.BitmapDescriptor;
 using AndroidBitmapDescriptorFactory = Android.Gms.Maps.Model.BitmapDescriptorFactory;
