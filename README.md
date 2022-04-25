@@ -22,9 +22,7 @@ When on the profile page, users may click on the profile photo to select a profi
 ![SignupPage](https://user-images.githubusercontent.com/64273536/165026742-8002750b-ec23-462f-8df8-36f32052b7ac.PNG)
 ![AlreadyLoggedInScreen](https://user-images.githubusercontent.com/64273536/165026688-fec624ed-bfa3-4c51-b0fe-15c34fae2a33.PNG)
 
-![MapsCapture](https://user-images.githubusercontent.com/64273536/165026770-5857f25b-90dc-4be5-87c2-c7bbd5eb9ecf.PNG)
 ![GasStationInfo](https://user-images.githubusercontent.com/64273536/165129563-a6f323bc-cfc6-4794-9595-2458714ba9e2.PNG)
-
 ![WebOrRoute](https://user-images.githubusercontent.com/64273536/165129617-fb650a82-2e4b-4ed2-83f3-387ab3308bc1.PNG)
 ![GoogleMaps](https://user-images.githubusercontent.com/64273536/165129640-aa883433-104c-4f02-bf6b-e86b8f58002b.PNG)
 
