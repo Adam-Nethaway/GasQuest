@@ -1,5 +1,5 @@
 # GasQuest
-**Created by Adam Nethaway and Sean McConville**
+**Created by Adam Nethaway (@Adam-Nethaway) and Sean McConville (@smcc1213)**
 
 This application was created for our final project in Software Engineering II at MidAmerica Nazarene University
 
