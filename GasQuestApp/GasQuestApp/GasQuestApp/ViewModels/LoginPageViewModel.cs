@@ -1,9 +1,6 @@
-﻿using GasQuestApp.ViewModels;
-using System;
-using System.ComponentModel;
+﻿using System.ComponentModel;
 using System.Windows.Input;
 using Xamarin.Forms;
-using Xamarin.Forms.Xaml;
 
 namespace GasQuestApp.ViewModels
 {
